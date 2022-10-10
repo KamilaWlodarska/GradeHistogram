@@ -1,0 +1,12 @@
+ocena 5,00
+ocena 4,65
+ocena 3,55
+ocena 2,43
+ocena 1,98
+ocena 0,02
+ocena 0,32
+ocena 9,09
+ocena 8,88
+ocena 4,12
+ocena 6,23
+ocena 7,9
