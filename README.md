@@ -1,1 +1,1 @@
-# C# school project
+# C# project for university classes
